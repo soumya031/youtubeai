@@ -1,8 +1,33 @@
-# YouTube AI Backend
+# 🎬 YouTube Transcript Summarizer Web App
 
-This is the backend service for the YouTube AI project, built with FastAPI and integrated with Google's Gemini API.
+This project is a web application that takes a YouTube video URL and returns a concise summary of its transcript using the power of generative AI.
 
-![Demo Screenshot](demo-screenshot.png)
+![Demo](./demo.gif) <!-- Optional: Add a GIF showing the app in action -->
+
+## 🚀 Features
+
+- 🔗 Input YouTube video URL
+- 🧠 Generates transcript using `youtube-transcript-api`
+- ✨ Summarizes content using Gemini/GPT API
+- 📦 FastAPI backend
+- 🖥️ React frontend
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js
+- **Backend:** FastAPI
+- **AI Model:** Google Gemini / OpenAI GPT
+- **Transcript:** `youtube-transcript-api`
+- **Deployment:** (Optional: Vercel / Render / Railway)
+
+## 📦 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/youtube-summarizer.git
+cd youtube-summarizer
+
 
 ## Setup
 
