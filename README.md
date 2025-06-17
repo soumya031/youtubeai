@@ -2,6 +2,8 @@
 
 This is the backend service for the YouTube AI project, built with FastAPI and integrated with Google's Gemini API.
 
+![Demo Screenshot](demo-screenshot.png)
+
 ## Setup
 
 1. Create a virtual environment:
