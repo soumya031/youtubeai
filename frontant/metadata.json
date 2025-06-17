@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Video Summarizer",
+  "description": "An application to summarize YouTube videos. Enter a YouTube video URL to get a concise summary using AI-powered technology.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
